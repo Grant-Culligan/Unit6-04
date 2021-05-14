@@ -1,0 +1,21 @@
+.head img {
+  float: left;
+  position: absolute;
+  left: 300px;
+}
+
+.head h1 {
+  position: relative;
+  padding: 60px;
+  text-align: center;
+}
+
+.trapinp {
+  position: absolute;
+  top: 400px;
+}
+
+.cal {
+  position: absolute;
+  top: 480px;
+}
