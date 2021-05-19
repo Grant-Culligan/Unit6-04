@@ -10,9 +10,9 @@ function calculate () {
   secondbase = document.getElementById('secb').value
   height = document.getElementById('height').value
 
-  area = parseInt(firstbase)
-  area = parseInt(secondbase)
-  area = parseInt(height)
+  firstbase = parseInt(firstbase)
+  secondbase = parseInt(secondbase)
+  height = parseInt(height)
 
   area = firstbase + secondbase
   area = area / 2
